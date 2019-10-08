@@ -2,3 +2,5 @@ bin
 obj
 zombie.depend
 zombie.cpb
+main.o
+zombie
