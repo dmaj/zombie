@@ -3,4 +3,6 @@ obj
 zombie.depend
 zombie.cpb
 main.o
+zombie.o
 zombie
+c.sh
